@@ -1,5 +1,6 @@
 # AI Podcasts on Japan's Current News | 日本の最新ニュースを扱ったAIポッドキャスト
 
+### 🇺🇸 English Description | 英語で説明
 This project utilizes **OpenAI's GPT-3.5 Turbo** model and **ElevenLabs' Text-to-Speech API** to generate a natural-sounding podcast based on the latest news. It takes in content from an RSS feed, which can be replaced with any feed to produce a podcast for different topics or news websites.
 
 - Requires **OpenAI API key** and **ElevenLabs API key**
@@ -7,6 +8,7 @@ This project utilizes **OpenAI's GPT-3.5 Turbo** model and **ElevenLabs' Text-to
 - The GPT response is then converted into a realistic human voice using ElevenLabs' TTS
 - Easily adaptable to any news source by replacing the RSS feed URL
 
+### 🇯🇵 Japanese Translation | 日本語の翻訳
 このプロジェクトでは、OpenAIのGPT-3.5 TurboモデルとElevenLabsの音声合成APIを使用して、最新のニュースをもとに自然な音声のポッドキャストを生成します。ニュースの内容はRSSフィードから取得され、任意のフィードに差し替えることで、様々なトピックやニュースサイトに対応できます。
 
 - OpenAI APIキーとElevenLabs APIキーが必要です
@@ -19,6 +21,7 @@ This project utilizes **OpenAI's GPT-3.5 Turbo** model and **ElevenLabs' Text-to
 ## Podcast Transcripts | ポッドキャストの書き起こし
 
 I have provided the transcripts for the two podcast MP3 files generated:
+
 生成された2つのポッドキャスト音声（MP3ファイル）の書き起こしを掲載しています。
 
 ---
