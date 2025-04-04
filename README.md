@@ -1,4 +1,4 @@
-# AI-Generated Podcast from RSS Feeds
+# AI Podcasts on Japan's Current News | 日本の最新ニュースを扱ったAIポッドキャスト
 
 This project utilizes **OpenAI's GPT-3.5 Turbo** model and **ElevenLabs' Text-to-Speech API** to generate a natural-sounding podcast based on the latest news. It takes in content from an RSS feed, which can be replaced with any feed to produce a podcast for different topics or news websites.
 
@@ -7,16 +7,24 @@ This project utilizes **OpenAI's GPT-3.5 Turbo** model and **ElevenLabs' Text-to
 - The GPT response is then converted into a realistic human voice using ElevenLabs' TTS
 - Easily adaptable to any news source by replacing the RSS feed URL
 
+このプロジェクトでは、OpenAIのGPT-3.5 TurboモデルとElevenLabsの音声合成APIを使用して、最新のニュースをもとに自然な音声のポッドキャストを生成します。ニュースの内容はRSSフィードから取得され、任意のフィードに差し替えることで、様々なトピックやニュースサイトに対応できます。
+
+- OpenAI APIキーとElevenLabs APIキーが必要です
+- RSSフィードの内容はGPT-3.5 Turboによって要約・構成されます
+- GPTの応答はElevenLabsのTTSを用いてリアルな人間の声に変換されます
+- RSSフィードのURLを変更するだけで、どんなニュースソースにも簡単に対応できます
+
 ---
 
-## Podcast Transcripts
+## Podcast Transcripts | ポッドキャストの書き起こし
 
 I have provided the transcripts for the two podcast MP3 files generated:
+生成された2つのポッドキャスト音声（MP3ファイル）の書き起こしを掲載しています。
 
 ---
 
 ### Japan Times Podcast  
-[Source: Japan Times](https://www.japantimes.co.jp/)
+[Japan Times](https://www.japantimes.co.jp/)
 
 **In this episode**, we talk about meeting new colleagues and introducing yourself in Japanese. It's important to start off on the right foot at work or school, and learning a few set phrases can make this process easier.
 
@@ -53,7 +61,7 @@ Thank you for tuning in — we'll see you next time!
 ---
 
 ### Nippon.com Podcast  
-[Source: Nippon.com](https://www.nippon.com/en/)
+[Nippon.com](https://www.nippon.com/en/)
 
 So, I came across this interesting news article about the workers at the Fukushima Daiichi Nuclear Power Station sharing their stories. It's been fourteen years since the devastating earthquake and tsunami that led to meltdowns at the facility, and there are still around 4,700 people working there every day to decommission the reactor units. Can you imagine the scale of such a long-term project?
 
