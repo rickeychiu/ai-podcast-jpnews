@@ -29,6 +29,10 @@ I have provided the transcripts for the two podcast MP3 files generated:
 ### Japan Times Podcast  
 [Japan Times](https://www.japantimes.co.jp/)
 
+<audio controls>
+  <source src="japantimespodcast.mp3" type="audio/mpeg">
+</audio>
+
 **In this episode**, we talk about meeting new colleagues and introducing yourself in Japanese. It's important to start off on the right foot at work or school, and learning a few set phrases can make this process easier.
 
 #### Nadeshiko Japan & Yuka Momiki  
@@ -65,6 +69,10 @@ Thank you for tuning in — we'll see you next time!
 
 ### Nippon.com Podcast  
 [Nippon.com](https://www.nippon.com/en/)
+
+<audio controls>
+  <source src="nipponpodcast.mp3" type="audio/mpeg">
+</audio>
 
 So, I came across this interesting news article about the workers at the Fukushima Daiichi Nuclear Power Station sharing their stories. It's been fourteen years since the devastating earthquake and tsunami that led to meltdowns at the facility, and there are still around 4,700 people working there every day to decommission the reactor units. Can you imagine the scale of such a long-term project?
 
