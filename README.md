@@ -26,12 +26,29 @@ I have provided the transcripts for the two podcast MP3 files generated:
 
 ---
 
+### Nippon.com Podcast  
+[Nippon.com](https://www.nippon.com/en/)
+
+So, I came across this interesting news article about the workers at the Fukushima Daiichi Nuclear Power Station sharing their stories. It's been fourteen years since the devastating earthquake and tsunami that led to meltdowns at the facility, and there are still around 4,700 people working there every day to decommission the reactor units. Can you imagine the scale of such a long-term project?
+
+Then, there's this story about rethinking the threat from the Nankai Trough earthquakes. Last year, the Japanese authorities issued a warning to communities near the area, urging them to focus on earthquake resilience rather than just waiting for a disaster to strike. It's a reminder that preparing for the worst is crucial, especially in a seismically active region like Japan.
+
+I read that among Japan's World Heritage sites, the Hiroshima A-Bomb Dome is the most well-known to the Japanese population. It's a powerful symbol of the tragic events that unfolded in Hiroshima during World War II, and its recognition as a UNESCO World Heritage site speaks to its significance in Japanese history.
+
+Have you heard of Kiritake Kanjūrō, the puppeteer designated as a living national treasure for his work with bunraku puppets? It's fascinating how he breathes life into these traditional Japanese puppets through his mastery of the craft. It's a reminder of the rich cultural heritage that Japan has to offer.
+
+I also found this piece discussing the changes affecting people's lives in Japan from April 2025. Rising inflation is a concern, but it's good to know that the government is offering more support for working parents. It's important to see policies that can help alleviate the financial pressures on families.
+
+And how about the origins of Japanese manga in Osaka? While Tokyo may be the hub for the industry now, Osaka played a significant role in the rise of manga in the twentieth century. It's interesting to see how different regions in Japan have contributed to the development of this popular art form.
+
+On a more political note, Prime Minister Ishiba Shigeru seems to be facing some challenges with his ratings dropping due to a recent scandal involving gift coupons. It's unfortunate to see a leader's approval ratings plummet, especially in such a short time since taking office. Political scandals can have a significant impact on public perception.
+
+I also came across a story about inarizushi, those tasty tofu pocket snacks. It's a classic Japanese dish made with vinegared rice stuffed in fried tofu pockets. It's a convenient and delicious snack, often found in bentos or lunch boxes. It's amazing how simple ingredients can come together to create something so flavorful.
+
+Lastly, there's this heartwarming story about a new bill of rights for children in Japan, particularly those in difficult circumstances. It's important to advocate for the rights of all children, including those facing abuse or living in shelters. It's inspiring to see groups working towards a better future for these vulnerable children.
+
 ### Japan Times Podcast  
 [Japan Times](https://www.japantimes.co.jp/)
-
-<audio controls>
-  <source src="japantimespodcast.mp3" type="audio/mpeg">
-</audio>
 
 **In this episode**, we talk about meeting new colleagues and introducing yourself in Japanese. It's important to start off on the right foot at work or school, and learning a few set phrases can make this process easier.
 
@@ -66,30 +83,5 @@ The looming 'Liberation Day' will have significant global implications, with nat
 Thank you for tuning in — we'll see you next time!
 
 ---
-
-### Nippon.com Podcast  
-[Nippon.com](https://www.nippon.com/en/)
-
-<audio controls>
-  <source src="nipponpodcast.mp3" type="audio/mpeg">
-</audio>
-
-So, I came across this interesting news article about the workers at the Fukushima Daiichi Nuclear Power Station sharing their stories. It's been fourteen years since the devastating earthquake and tsunami that led to meltdowns at the facility, and there are still around 4,700 people working there every day to decommission the reactor units. Can you imagine the scale of such a long-term project?
-
-Then, there's this story about rethinking the threat from the Nankai Trough earthquakes. Last year, the Japanese authorities issued a warning to communities near the area, urging them to focus on earthquake resilience rather than just waiting for a disaster to strike. It's a reminder that preparing for the worst is crucial, especially in a seismically active region like Japan.
-
-I read that among Japan's World Heritage sites, the Hiroshima A-Bomb Dome is the most well-known to the Japanese population. It's a powerful symbol of the tragic events that unfolded in Hiroshima during World War II, and its recognition as a UNESCO World Heritage site speaks to its significance in Japanese history.
-
-Have you heard of Kiritake Kanjūrō, the puppeteer designated as a living national treasure for his work with bunraku puppets? It's fascinating how he breathes life into these traditional Japanese puppets through his mastery of the craft. It's a reminder of the rich cultural heritage that Japan has to offer.
-
-I also found this piece discussing the changes affecting people's lives in Japan from April 2025. Rising inflation is a concern, but it's good to know that the government is offering more support for working parents. It's important to see policies that can help alleviate the financial pressures on families.
-
-And how about the origins of Japanese manga in Osaka? While Tokyo may be the hub for the industry now, Osaka played a significant role in the rise of manga in the twentieth century. It's interesting to see how different regions in Japan have contributed to the development of this popular art form.
-
-On a more political note, Prime Minister Ishiba Shigeru seems to be facing some challenges with his ratings dropping due to a recent scandal involving gift coupons. It's unfortunate to see a leader's approval ratings plummet, especially in such a short time since taking office. Political scandals can have a significant impact on public perception.
-
-I also came across a story about inarizushi, those tasty tofu pocket snacks. It's a classic Japanese dish made with vinegared rice stuffed in fried tofu pockets. It's a convenient and delicious snack, often found in bentos or lunch boxes. It's amazing how simple ingredients can come together to create something so flavorful.
-
-Lastly, there's this heartwarming story about a new bill of rights for children in Japan, particularly those in difficult circumstances. It's important to advocate for the rights of all children, including those facing abuse or living in shelters. It's inspiring to see groups working towards a better future for these vulnerable children.
 
 And let's not forget Murose Kazumi, the living national treasure known for his exquisite lacquerware. His mastery of the decorative technique of makie, using gold powder over lacquer, is truly impressive. It's a reminder of the incredible craftsmanship and artistry that exists in Japan.
